@@ -4,6 +4,7 @@
   1-( Optional ) Install iTerm2 .
 	
     * Go to Iterm2.com and download it ( https://iterm2.com/ )
+    https://iterm2.com/
     * It also uses default zsh shell for shell scripting.
     
           // I personally use iTerm2 over normal terminal as of it's different THEMES and Features and color combination which comes soothing to eyes.
@@ -11,6 +12,7 @@
   2-Install HOMEBREW ( Mandatory )
   
        // The work of Homebrew is that it simplifies the installation of software on MACOS as well as LINUX
+       https://brew.sh/
     * Go to brew.sh and copy the command on the screen (   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"    )
     * Run the command on the iTerm2 or default shell in the main window .
 
